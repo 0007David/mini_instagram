@@ -19,3 +19,8 @@ if ($uri !== '/' && file_exists(__DIR__.'/public'.$uri)) {
 }
 
 require_once __DIR__.'/public/index.php';
+
+//grover modifico aqui
+date_parse_from_format(fr)
+
+frfr
